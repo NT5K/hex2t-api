@@ -1,7 +1,7 @@
 {
   "name": "hex2tapi",
   "version": "1.0.0",
-  "description": "circulating supply api for the HEX2T Token (axios)",
+  "description": "circulating supply api for the HEX2T Token (axion)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
